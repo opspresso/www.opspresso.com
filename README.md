@@ -1,3 +1,3 @@
-# www.opspresso.com
+# opspresso
 
 Hello, world!
