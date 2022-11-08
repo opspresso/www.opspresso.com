@@ -1,3 +1,3 @@
 # www.opspresso.com
 
-* <https://opspresso.com>
+Hello, world!
