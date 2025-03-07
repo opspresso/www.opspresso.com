@@ -42,6 +42,13 @@ body {
     transition: color 0.3s ease;
 }
 
+.navbar-toggler {
+    color: var(--text-light) !important;
+    border: none;
+    padding: 0.5rem;
+    font-size: 1.5rem;
+}
+
 .hero {
     background: linear-gradient(135deg, var(--primary-color), var(--accent-color));
     color: var(--text-light);
